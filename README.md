@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <h1 align="center">Hellooo~, I'm Leo</h1>
 <h3 align="center">A student having interest in programming from Taiwan</h3>

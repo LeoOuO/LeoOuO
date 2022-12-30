@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **C++, Python, Unity with C#, Flutter with Dart etc.**
 
-- 📫 How to reach me **pishiou.chang@gmail.com**
+- 📫 How to reach me: **pishiou.chang@gmail.com**
 
-- ⚡ Fun fact **Like to try every interesting things ,especially on game-creating and AI.**
+- ⚡ Fun fact: **Like to try every interesting things ,especially on game-creating and AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
